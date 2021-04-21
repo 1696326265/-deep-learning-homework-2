@@ -1,0 +1,1 @@
+python3 main_clear.py "{ 'model':'Myhighway' , 'train_path':'os.path.join(data_dir, \'5-Weakly-Supervised\', \'train\')' , 'valid_path':'os.path.join(data_dir,\'test\')' , 'trainlim':10000000 , 'validlim':10000000, 'batch_size':1 , 'lr':0.001 , 'epochs':100 , 'who':'Task5_modelMyhighwayclear' , 'rounds_per_train':1 }"

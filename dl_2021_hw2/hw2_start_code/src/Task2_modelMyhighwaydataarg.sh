@@ -1,0 +1,1 @@
+python3 main_adam.py "{ 'model':'Myhighway' , 'train_path':'os.path.join(data_dir, \'2-Medium-Scale\', \'train_arg\')' , 'valid_path':'os.path.join(data_dir,\'test\')' , 'trainlim':10000000 , 'validlim':10000000, 'batch_size':32 , 'lr':0.0005 , 'epochs':300 , 'who':'Task2_modelMyhighwaydataarg' , 'rounds_per_train':1 }"

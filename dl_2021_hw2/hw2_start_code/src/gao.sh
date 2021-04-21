@@ -1,0 +1,1 @@
+python3 main.py "{ 'model':'SIMPLE' , 'train_path':'os.path.join(data_dir, \'2-Medium-Scale\', \'train\')' , 'valid_path':'os.path.join(data_dir,\'test\')' , 'trainlim':10000000 , 'validlim':100000, 'batch_size':512 , 'lr':0.0005 , 'epochs':500 , 'who':'Task2_modelSIMPLE' }"
