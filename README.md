@@ -1,4 +1,4 @@
-# A hard homework containing 3 parts
+# A homework containing 3 parts
 
 ### Part 1
 
